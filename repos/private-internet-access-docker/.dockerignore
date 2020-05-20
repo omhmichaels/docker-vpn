@@ -1,0 +1,10 @@
+.git
+.vscode
+readme
+.gitignore
+.travis.yml
+ci.sh
+docker-compose.yml
+LICENSE
+README.md
+Dockerfile
